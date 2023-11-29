@@ -1,12 +1,5 @@
-## Hi there 👋
+# Faculty of Computers and Artificial Intelligence - Cairo University
 
-<!--
+## Students Information System
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Here, you will find repositories that collectively form the backbone of our Students Information System. This system is designed to streamline student data management and enhance the overall academic experience.
